@@ -1,0 +1,1 @@
+{"name":"Local: 2675","url":"/Users/dev/Documents/Pjs/PS/acmicpc/26__/2675.cpp","tests":[{"id":1698334125144,"input":"2\n3 ABC\n5 /HTP","output":"AAABBBCCC\n/////HHHHHTTTTTPPPPP"}],"interactive":false,"memoryLimit":128,"timeLimit":1000,"srcPath":"/Users/dev/Documents/Pjs/PS/acmicpc/26__/2675.cpp","group":"local","local":true}
