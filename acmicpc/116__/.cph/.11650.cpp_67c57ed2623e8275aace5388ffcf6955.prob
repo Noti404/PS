@@ -1,0 +1,1 @@
+{"name":"Local: 11650","url":"/Users/dev/Documents/Pjs/PS/acmicpc/116__/11650.cpp","tests":[{"id":1698158731491,"input":"5\n3 4\n1 1\n1 -1\n2 2\n3 3","output":"1 -1\n1 1\n2 2\n3 3\n3 4"}],"interactive":false,"memoryLimit":256,"timeLimit":1000,"srcPath":"/Users/dev/Documents/Pjs/PS/acmicpc/116__/11650.cpp","group":"local","local":true}
